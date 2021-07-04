@@ -1,0 +1,30 @@
+<head>
+ <title>web company</title>
+ <style>
+   .a1{border :1px solid black; height:75px; width:1500px;background-color:silver;}
+   .a2{border:1px solid black; height:700px; width:1505px;background-color:silver;padding-top:10px;}
+   .a3{border:1px solid black; height:45px; width:1505px;  background-color:silver;}
+   .a4{border:1px solid black; height:300px; width:1505px; display:inline-block; background-image:url("web.jpg");color:purple;}
+   .submit{height:50px;width:125px; align:center; background-color:orange; padding-left:10px;display:inline-block; margin: 15px 62px 35px 165px; }
+   li{color:red;font-size:5;}
+ 
+ 
+ 
+ </style>
+</head>
+
+
+
+
+
+<head>
+ <title>web company</title>
+ <style>
+   .a1{border :1px solid black; height:75px; width:1500px;background-color:silver;}
+   .a2{border:1px solid black; height:1365px; width:1505px;background-color:silver;}
+   .a3{border:1px solid black; height:45px; width:1505px;  background-color:silver;}
+   .a4{border:1px solid black; height:300px; width:1505px; display:inline-block; background-image:url("web.jpg");color:purple;}
+   .submit{height:50px;width:125px; align:center; background-color:orange; padding-left:10px;display:inline-block; margin: 15px 62px 35px 165px; }
+    li{color:red;}
+   .flex-container {display: flex;width:1500px; flex-wrap:  wrap;background-color: Blue;}
+   .flex-container > div {background-color: #f1f1f1;width: 475px;margin: 10px;flex-wrap:  wrap;text-align: center;line-height: 120px;}
